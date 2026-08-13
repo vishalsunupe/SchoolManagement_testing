@@ -3,7 +3,7 @@
 A comprehensive, categorized guide to essential Git commands used in daily software development workflows.
 
 ---
-
+```bash
 ## 📋 Table of Contents
 1. [Initial Setup & Configuration](#1-initial-setup--configuration)
 2. [Creating & Cloning Repositories](#2-creating--cloning-repositories)
@@ -16,7 +16,7 @@ A comprehensive, categorized guide to essential Git commands used in daily softw
 9. [Undoing & Fixing Mistakes](#9-undoing--fixing-mistakes)
 10. [Tagging & Releases](#10-tagging--releases)
 11. [Useful Git Aliases & Tips](#11-useful-git-aliases--tips)
-
+```
 ---
 
 ## 1. Initial Setup & Configuration
@@ -24,6 +24,7 @@ A comprehensive, categorized guide to essential Git commands used in daily softw
 Configure Git with your identity and global preferences (run once per system).
 
 ```bash
+https://github.com/vishalsunupe/SchoolManagement_testing.git
 # Set your name and email globally
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"

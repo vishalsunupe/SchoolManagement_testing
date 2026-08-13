@@ -9,7 +9,7 @@
     </listeners>
 
     <!-- Suite-level default browser selection parameter -->
-    <parameter name="browser" value="chrome"/>
+    <parameter name="browser" value="{browser}"/>
 
     <test name="Functionality Tests">
         <classes>
